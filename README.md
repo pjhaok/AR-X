@@ -1,2 +1,2 @@
 # AR-X
-A simple arkit based app for detecting horizontal or vertical plane detection and its dimension in meters
+A simple arkit based app for detecting horizontal and vertical plane and its dimensions in meter
